@@ -15,4 +15,6 @@ if __name__ == '__main__':
     print('Hello Hi')
     c=3+4
     print('c=',c)
+    d=4*4
+    print('d=',d)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
