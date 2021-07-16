@@ -13,5 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Nauman')
     print('Hello Hi')
-
+    c=3+4
+    print('c=',c)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
